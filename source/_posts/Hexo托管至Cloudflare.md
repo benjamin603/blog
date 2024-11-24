@@ -1,5 +1,6 @@
 ---
 title: Hexo托管至Cloudflare
+abbrlink: 34862
 date: 2024-11-24 16:29:22
 tags:
 categories:
