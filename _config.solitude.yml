@@ -70,7 +70,7 @@ hometop:
   enable: true
   banner:
     title: Benjamin # 宁静致远 <br> 热爱生活 # 标题
-    url: Hexo Theme Solitude # 小字
+    url: 记录生活点滴 # 小字
     icon:
       HTML: # name
         img: https://i.postimg.cc/vBWVnY8q/html.png # url
@@ -91,7 +91,7 @@ hometop:
         img: https://i.postimg.cc/nhgjwjCS/git.png
         color: "#df5b40"
   group:
-    热门: /tags/Fire/ || fas fa-fire || linear-gradient(to right,#f65,#ffbf37)
+    热爱生活: /categories/生活日常/ || fas fa-fire || linear-gradient(to right,#f65,#ffbf37)
   recommendList:
     sup: 置顶
     title: 相册集
@@ -156,8 +156,8 @@ aside:
     # social
     # 社交信息图标
     information:
-     Github: https://github.com/everfu || fab fa-github # Name: link || icon
-     Bilibili: https://space.bilibili.com/1329819902 || fab fa-bilibili
+     Github: https://github.com/benjamin603 || fab fa-github # Name: link || icon
+     Bilibili: https://space.bilibili.com/686172177 || fab fa-bilibili
   # --------------------------- end ---------------------------
 
   # --------------------------- start ---------------------------
@@ -551,20 +551,20 @@ footer:
   information:
     author: /img/avatar.webp # img url / false
     left:
-      Github: https://github.com/everfu || fab fa-github # 名称: 链接 || 图标
+      Github: https://github.com/benjamin603 || fab fa-github # 名称: 链接 || 图标
       Mail: mailto:benjamin603@qq.com || fa-solid fa-envelope
     right:
-      Bilibili: https://space.bilibili.com/1329819902 || fab fa-bilibili
-      Douyin: https://v.douyin.com/iJsLc8jt/ || fab fa-tiktok
+      Bilibili: https://space.bilibili.com/686172177 || fab fa-bilibili
+      Douyin: https://v.douyin.com/iDj3NunA/ || fab fa-tiktok
   group:
-    导航:
-      Archives: /archives/
-      Categories: /categories/
-      Tags: /tags/
-    排列:
-      Cookies: /cookies/
-      Privacy: /privacy/
-      Copyright: /copyright/
+    # 导航:
+    #   Archives: /archives/
+    #   Categories: /categories/
+    #   Tags: /tags/
+    # 排列:
+    #   Cookies: /cookies/
+    #   Privacy: /privacy/
+    #   Copyright: /copyright/
 
   # 随机友链
   randomlink: true # 随机友链
